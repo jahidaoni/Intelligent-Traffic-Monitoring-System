@@ -1,4 +1,3 @@
-# Intelligent-Traffic-Monitoring
 # Traffic Rules Violation Detection with Computer Vision
 
 > Initial Release (Everything is not completed)
@@ -238,6 +237,20 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 - imutils: https://github.com/jrosebr1/imutils
 - In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
 
+## Author
 
+Rahat Zaman, Sakib Reza
+rahatzamancse@gmail.com
+Student at Department of Computer Science and Engineering
+Khulna University of Engineering & Technology, Khulna
+Bangladesh
+
+** Supervised under **
+Dr. Sk. Mohammad Masudul Ahsan
+Professor
+Dept. of Computer Science and Engineering
+Khulna University of Engineering & Technology
+
+## Licensing
 
 The code in this project is licensed under GNU GPLv3 license.
